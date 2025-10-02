@@ -9,5 +9,5 @@
 ## よくある形式
 
 - {{ 7*7 }} -> 49が返ってくるかどうかでSSTI判定する
-- Pythonオブジェクトチェーンでos.popenに到達
+- Pythonオブジェクトチェーンで`os.popen`に到達
 - Flaskアプリで`render_template_string()`が使われているケースが多い
