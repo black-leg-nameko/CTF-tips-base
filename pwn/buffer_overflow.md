@@ -1,10 +1,9 @@
 # Buffer overflow
 バッファサイズ超過によるリターンアドレスの上書き
 
-</br>
 - canary
 - ASLR
-- NX bit
+- NX bit </br>
 などの防御機構がある。
 
 ```C
